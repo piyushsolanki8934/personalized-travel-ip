@@ -21,7 +21,7 @@
 
 > **🎓 Experiential Learning Project** | SkillWallet (A SmartBridge Product) × NASSCOM FutureSkills Prime
 > **🏛️ Institution:** Medicaps University, Indore | B.Tech Program
-> **👨‍💻 Developer:** Piyush Pal
+> **👨‍💻 Developer:** Piyush Solanki
 
 <br/>
 
@@ -72,7 +72,7 @@ With a modern **SaaS-style dashboard**, smart **trip builder**, and **interactiv
 | **Partner** | NASSCOM FutureSkills Prime |
 | **Institution** | Medicaps University, Indore (M.P.) |
 | **Course** | Generative AI with Google Cloud |
-| **Student** | Piyush Pal |
+| **Student** | Piyush Solanki |
 | **Program Type** | LastMile / Capstone Project |
 | **Target** | B.Tech 3rd & 4th Year |
 
@@ -490,7 +490,7 @@ API Endpoints:   15+
 
 <div align="center">
 
-**Made with ❤️ by Piyush Pal**
+**Made with ❤️ by Piyush Solanki**
 
 *Medicaps University × SkillWallet × SmartBridge × NASSCOM FutureSkills Prime*
 
